@@ -1,0 +1,22 @@
+{
+  "fazer": [],
+  "andamento": [],
+  "concluido": [],
+  "people": [
+    {
+      "image": "../src/assets/enzo.png",
+      "name": "Enzo Crisóstomo",
+      "id": 1
+    },
+    {
+      "image": "../src/assets/eduardo.png",
+      "name": "Eduardo Rodrigues",
+      "id": 2
+    },
+    {
+      "image": "../src/assets/responsavel.png",
+      "name": "Responsável",
+      "id": 3
+    }
+  ]
+}
